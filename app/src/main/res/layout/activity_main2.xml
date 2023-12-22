@@ -18,7 +18,7 @@
         android:layout_height="150dp"
         android:layout_marginTop="70dp"
         android:layout_marginLeft="50dp"
-        android:background="#FF80AB">
+        android:background="#8C9EFF">
 
 
         <ImageView
